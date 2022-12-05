@@ -1,2 +1,2 @@
 # UW-MadisonProjects
- This repository contains past projects I have worked on during my computer and data science related classes at UW-Madison.
+ This repository contains past projects I have worked on during my computer and data science related classes at UW-Madison, specifically CS 320.
