@@ -13,6 +13,6 @@ data from https://www.kaggle.com/datasets/leonardopena/top50spotify2019
 Utilized machine learning techniques to build a classifier to determine customer's interest of a new laptop promotion based on past website data.
 
 ## Regression Models with Wisconsin Census Data (population_predicting.ipynb)
-Made predictions using regressional models and Wisconsin census data.
+Made predictions using regression models and Wisconsin census data.
 
 
