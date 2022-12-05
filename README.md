@@ -5,7 +5,7 @@ Built a website based on Spotify data—displays two forms of donation buttons b
 
 index.html contains html code for the main page of the website.
 
-main.py uses Flask to run the website and create other pages on the website.
+main.py uses Flask to run the website and create other pages.
 
 data from https://www.kaggle.com/datasets/leonardopena/top50spotify2019
 
