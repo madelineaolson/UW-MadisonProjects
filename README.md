@@ -1,7 +1,7 @@
 ## UW-MadisonProjects
 
 ## Website Folder
-Building a website based on Spotify data—displays two forms of donation buttons based on A/B Testing, two different plots on homepage, and an email subscribe button that only accepts valid addresses.
+Built a website based on Spotify data—displays two forms of donation buttons based on A/B Testing, two different plots on homepage, and an email subscribe button that only accepts valid addresses.
 
 index.html contains html code for the main page of the website.
 
